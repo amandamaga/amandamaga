@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi! I'm Amanda 😊
 
-<!--
-**amandamaga/amandamaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science student at [Federal University of ABC (UFABC)](https://www.ufabc.edu.br/)  
+🔭 Currently working as a **Product Designer** | UX/UI Design  
+🌱 Learning to become a **Fullstack Developer**  
+🗺️ Based in Brazil  
+📫 Contact me via email: [amandamagalima@gmail.com](mailto:amandamagalima@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tools & Technologies
+
+![Figma](https://img.shields.io/badge/-Figma-333?logo=figma&logoColor=white&style=flat)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+
+---
+
+### 📊 GitHub Stats
+
+![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandamagalima&show_icons=true&theme=radical)
+
+---
+
+### 🌐 Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)
