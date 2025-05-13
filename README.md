@@ -1,14 +1,14 @@
-# Hi! I'm Amanda 😊
+# Hi! I'm Amanda :)
 
-💻 Computer Science student at [Federal University of ABC (UFABC)](https://www.ufabc.edu.br/)  
-🔭 Currently working as a **Product Designer** | UX/UI Design  
+💻 Computer Science student at Federal University of ABC
+🔭 Currently working as a **Product Designer | UX/UI Design**  
 🌱 Learning to become a **Fullstack Developer**  
 🗺️ Based in Brazil  
 📫 Contact me via email: [amandamagalima@gmail.com](mailto:amandamagalima@gmail.com)
 
 ---
 
-### 🚀 Tools & Technologies
+### Tools & Technologies
 
 ![Figma](https://img.shields.io/badge/-Figma-333?logo=figma&logoColor=white&style=flat)  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
@@ -20,12 +20,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandamagalima&show_icons=true&theme=radical)
 
 ---
 
-### 🌐 Let's connect!
+### Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandamagalhaeslima/))
