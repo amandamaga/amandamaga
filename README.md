@@ -4,7 +4,7 @@
 🔭 Currently working as a **Product Designer** focused on UX/UI Design  
 🌱 Learning to become a **Design Engineer** and **Fullstack Developer**  
 🗺️ Based in Brazil  
-📫 Reach me at: [amandamagalima@gmail.com](mailto:amandamagalima@gmail.com)
+📫 Contact me via email: [amandamagalima@gmail.com](mailto:amandamagalima@gmail.com)
 
 ---
 
