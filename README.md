@@ -1,16 +1,16 @@
 # Hi! I'm Amanda :)
 
-💻 Computer Science student at Federal University of ABC
-🔭 Currently working as a **Product Designer | UX/UI Design**  
-🌱 Learning to become a **Fullstack Developer**  
+💻 Computer Science student at the Federal University of ABC  
+🔭 Currently working as a **Product Designer** focused on UX/UI Design  
+🌱 Learning to become a **Design Engineer** and **Fullstack Developer**  
 🗺️ Based in Brazil  
-📫 Contact me via email: [amandamagalima@gmail.com](mailto:amandamagalima@gmail.com)
+📫 Reach me at: [amandamagalima@gmail.com](mailto:amandamagalima@gmail.com)
 
 ---
 
 ### Tools & Technologies
 
-![Figma](https://img.shields.io/badge/-Figma-333?logo=figma&logoColor=white&style=flat)  
+![Figma](https://img.shields.io/badge/-Figma-333?logo=figma&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -22,10 +22,10 @@
 
 ### GitHub Stats
 
-![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandamagalima&show_icons=true&theme=radical)
+![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandamaga&show_icons=true&theme=default)
 
 ---
 
 ### Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandamagalhaeslima/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandamagalhaeslima/)
