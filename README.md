@@ -2,7 +2,7 @@
 
 💻 Computer Science student at the Federal University of ABC  
 🔭 Currently working as a **Product Designer** focused on UX/UI Design  
-🌱 Learning to become a **Design Engineer** and **Fullstack Developer**  
+🌱 Learning about **Design Engineer** and **Fullstack Developer**  
 🗺️ Based in Brazil  
 📫 Contact me via email: [amandamagalima@gmail.com](mailto:amandamagalima@gmail.com)
 
