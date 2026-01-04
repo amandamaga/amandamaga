@@ -1,7 +1,7 @@
 # Hi! I'm Amanda :)
 
 💻 Computer Science student at the Federal University of ABC  
-🔭 Currently working as a **Product Designer** focused on UX/UI Design  
+🔭 Currently working whit **Data Analysis**
 🌱 Learning about **Design Engineering**, **Data Analysis** and **Full Stack Development**  
 🗺️ Based in Brazil  
 📫 Contact me via email: [amandamagalima@gmail.com](mailto:amandamagalima@gmail.com)
